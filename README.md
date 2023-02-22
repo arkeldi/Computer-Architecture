@@ -2,6 +2,8 @@
 
 This are the projects I have programmed in my computer architecture and design class. Within this, I learned use of register transfer languages and simulation tools to describe and simulate computer operation; central processing unit organization, input/output and memory system architectures. 
 
+These files add up to the final version of the simple ARMv8 processor implemented using Verilog (single cycle and pipelined)
+
 The list below shows the amount of hours spent on each topic explored in my programmed labs. 
 
 3 hours: Overview of Computer Architecture
