@@ -6,8 +6,6 @@ These files add up to the final version of the simple ARMv8 processor implemente
 
 The list below shows each topic explored in my programmed labs. 
 
-Overview of Computer Architecture
-
 -Instruction Set Architectures (ISA), Representing instructions on the computer, Arithmetical and logical instructions, Memory access instructions
 
 -Instruction Set Architectures (ISA), Control flow instructions, Function calls instructions, Input-output instructions SPIM- instruction set simulator
